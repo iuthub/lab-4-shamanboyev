@@ -32,7 +32,10 @@ li {
 	padding-bottom: 0.5em;
 	font-family: Verdana;
 }
-
+#back{
+	align-items: right;
+	font-weight: bold;
+}
 #listarea {
 	background-color: #DDEEFF;
 	border: 5px double blue;
